@@ -1,4 +1,4 @@
-## Letter counter
+## Letter counter - Nguyễn Sơn Hải
 
 ### Requirements
 
