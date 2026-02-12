@@ -1,0 +1,5 @@
+# Build tool folders
+bin/
+
+# IDE specific files
+.vscode/
